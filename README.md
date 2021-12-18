@@ -1,6 +1,6 @@
 # About Me
 
-Hey! I am ItzSquido and I like to code and learn new coding languages!
+Hello, I am ItzSquido, I am a self-taught developer
 
 # Current Projects
 
